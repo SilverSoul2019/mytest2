@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello,master\n");
+	printf("hello,dev\n");
 	return 0;
 }
